@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    twilio-ruby (3.11.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  twilio-ruby
