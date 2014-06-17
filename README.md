@@ -30,6 +30,7 @@ Features to be added:
 + Add ability to cancel order
 + Add a delete function when order is cancelled
 + Add an order confirmation during checkout?
-+ A user interface (via Terminal)
++ A user interface (including menu display) (via Terminal)
++ Add send confirmation order via text (using Twilio) 
 
 At the time of commiting this update, I am now moving on to the next project or challenge whilst at the bootcamp, but I would really love to come back in near future to add more features to this program.
