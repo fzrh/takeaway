@@ -24,5 +24,12 @@ require './lib/takeaway'
 
 ##### Notes
 
-This challenge is complete, and it's now a working code - but halfway through I stopped doing TDD and just get it to work.
-In the near future, I would like to come back and re-do it with TDD approach.
+Features to be added: 
+
++ To display ordered items so far (when requested)
++ Add ability to cancel order
++ Add a delete function when order is cancelled
++ Add an order confirmation during checkout?
++ A user interface (via Terminal)
+
+At the time of commiting this update, I am now moving on to the next project or challenge whilst at the bootcamp, but I would really love to come back in near future to add more features to this program.
